@@ -1,1 +1,2 @@
-Madde 1 
+Ozellik 3
+	Madde 1 
